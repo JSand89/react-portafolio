@@ -1,0 +1,134 @@
+[
+  {
+    "nombre": "Proyecto 1",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 1, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 2",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 2, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 3",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 3, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 4",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 4, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 5",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 5, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 6",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 6, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 7",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 7, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 8",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 8, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 9",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 9, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 10",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 10, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 11",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 11, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  },
+  {
+    "nombre": "Proyecto 12",
+    "imagen": "proyecto-default.jpg",
+    "repo": "https://github.com/usuario/proyecto",
+    "tecnologias": [
+      "React",
+      "Bootstrap",
+      "Vite"
+    ],
+    "descripcion": "Este es el proyecto n\u00famero 12, dise\u00f1ado para mostrar una tarjeta interactiva con modal."
+  }
+]
