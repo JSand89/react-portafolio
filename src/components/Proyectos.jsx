@@ -1,14 +1,27 @@
 import { useState, useEffect } from 'react';
 import TarjetaProyecto from './TarjetaProyecto';
-import proyectosData from '../../proyectos.json';
+import ProyectoModal from './ProyectoModal';
+import proyectosData from '../data/proyectos.json';
 
 export default function Proyectos() {
   const [proyectos, setProyectos] = useState([]);
-  
+  const [modalProyecto, setModalProyecto] = useState(null);
+  const [showModal, setShowModal] = useState(false);
+
   useEffect(() => {
-    // Simulamos una carga de datos como si vinieran de una API
     setProyectos(proyectosData);
   }, []);
+
+  const handleOpen = (proyecto) => {
+    setModalProyecto(proyecto);
+    setShowModal(true);
+  };
+
+  const handleClose = () => {
+    setShowModal(false);
+    setModalProyecto(null);
+  };
+
   return (
     <section className="container py-5">
       <h2 className="text-center mb-4">Mis Proyectos</h2>
@@ -17,10 +30,16 @@ export default function Proyectos() {
           <TarjetaProyecto
             key={i}
             proyecto={proyecto}
-            onOpen={() => {}} // ← No hace nada por ahora
+            onOpen={handleOpen}
           />
         ))}
       </div>
+
+      <ProyectoModal
+        proyecto={modalProyecto}
+        show={showModal}
+        onClose={handleClose}
+      />
     </section>
   );
 }
